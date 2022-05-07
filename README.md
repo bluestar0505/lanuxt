@@ -1,4 +1,4 @@
-# Laravel & Nuxt  Dashboard 
+# Laravel & Nuxt.js & Laradock  Dashboard 
 
 ![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg)
 
